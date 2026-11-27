@@ -1,0 +1,4 @@
+{"expo":{"name":"HISOBPRO","slug":"hisobpro","version":"1.0.0","orientation":"portrait",
+"android":{"package":"uz.hisobpro.app","permissions":["CAMERA","INTERNET","ACCESS_NETWORK_STATE","RECORD_AUDIO"]},
+"ios":{"bundleIdentifier":"uz.hisobpro.app","infoPlist":{"NSCameraUsageDescription":"QR kodni skanerlash uchun","NSMicrophoneUsageDescription":"WebRTC talabi","NSPhotoLibraryUsageDescription":"Profil rasmi uchun"}},
+"plugins":["expo-camera","expo-secure-store","expo-sqlite",["@config-plugins/react-native-webrtc",{"cameraPermission":"QR skanerlash","microphonePermission":"WebRTC"}]]}}
